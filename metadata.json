@@ -1,0 +1,8 @@
+{
+  "name": "IT-Prompt Studio",
+  "description": "Інтерактивний конструктор професійних промтів для створення освітніх вебзастосунків та ігрових завдань НУШ за допомогою штучного інтелекту.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
